@@ -1,0 +1,15 @@
+1 Semaphore - acquire(),  release()
+2 Semaphore - acquire(),  release() - producer and consumer  
+3 CountDownLatch - countDown()
+4 CyclicBarrier
+5 Exchanger
+6 Phaser 
+7 Phaser
+8 CountDownLatch, ExecutorService.newFixedThreadPool
+9 Future, Callable, ExecutorService.newFixedThreadPool
+10 ReentrantLock
+11 AtomicInteger
+12 ForkJoinPool & RecursiveAction
+13 ForkJoinPool & RecursiveAction - with threshold parallism
+14 ForkJoinPool & RecursiveTask 
+CyclicBarrier
